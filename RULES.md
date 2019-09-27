@@ -135,6 +135,8 @@ each player does the following for each of their front line units with that spee
 Then each player resolves the attack markers on their units.
  - First, if a unit has an unbroken shield, mark the shield as broken (x) to discard an attack marker.
  - Then, if their is an unbroken fortress within one column, mark the fortress as broken (X) to discard an attack marker.
+   - If a unit has multiple fortresses to choose from, priority is given to a fortress on the unit, then to a fortress
+   on the same column, then the column to the right (preferencing the same row), then the coloumn to the left.
    - If multiple units would need the same fortress, priority is given to a unit on the same coloumn as the fortress, 
    then the column to the right, then the coloumn to the left.
  - If there is still at least one attack marker on a unit that unit is killed. Remove the unit card from the battle.
